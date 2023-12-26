@@ -44,9 +44,5 @@ The app adopts an MVVM (Model-View-ViewModel) architecture, promoting a clean se
 - **User Privacy**: User location data is handled with strict privacy controls, ensuring compliance with data protection regulations.
 
 ## Setup and Configuration
-- **Dependencies**: Ensure to install all the necessary dependencies as listed in the project documentation.
+- **Dependencies**: Ensure to install all the necessary dependencies.
 - **API Keys**: Replace the placeholder API keys with your valid keys from respective service providers.
-
-## Conclusion
-This Pharmacy Locator App exemplifies the integration of various technologies to create a user-friendly, efficient, and practical application. Its robust architecture and the use of popular APIs make it an excellent example of modern iOS app development.
-"""
